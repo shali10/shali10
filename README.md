@@ -116,10 +116,10 @@
 ## 🏆 GitHub Badges & Achievements
 
 <div align="center">
-  <img src="https://github.com/shali10/shali10/assets/badges/pair.png" width="60" alt="Pair Extraordinaire" onerror="this.style.display='none'" />
-  <img src="https://github.com/shali10/shali10/assets/badges/yolo.png" width="60" alt="YOLO" onerror="this.style.display='none'" />
-  <img src="https://github.com/shali10/shali10/assets/badges/pull-shark.png" width="60" alt="Pull Shark" onerror="this.style.display='none'" />
-  <img src="https://github.com/shali10/shali10/assets/badges/quickdraw.png" width="60" alt="Quickdraw" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/pair.png" width="60" alt="Pair Extraordinaire" />
+  <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/yolo.png" width="60" alt="YOLO" />
+  <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/pull-shark.png" width="60" alt="Pull Shark" />
+  <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/quickdraw.png" width="60" alt="Quickdraw" />
   <br/>
   <i>🚀 Pair Extraordinaire · 🦈 Pull Shark · 🎯 Quickdraw · ⚡ YOLO</i>
 </div>
