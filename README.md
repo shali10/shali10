@@ -116,12 +116,12 @@
 ## 🏆 GitHub Badges & Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/pair.png" width="60" alt="Pair Extraordinaire" />
+  <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/starstruck.png" width="60" alt="Starstruck" />
   <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/yolo.png" width="60" alt="YOLO" />
   <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/pull-shark.png" width="60" alt="Pull Shark" />
   <img src="https://raw.githubusercontent.com/shali10/shali10/main/assets/badges/quickdraw.png" width="60" alt="Quickdraw" />
   <br/>
-  <i>🚀 Pair Extraordinaire · 🦈 Pull Shark · 🎯 Quickdraw · ⚡ YOLO</i>
+  <i>🌟 Starstruck · 🦹 YOLO · 🦈 Pull Shark · ⚡ Quickdraw</i>
 </div>
 
 ---
